@@ -1,10 +1,10 @@
-# FizzyoTeam3
+# Fizzyo Team 3
 UCL COMP103P Coursework
 
 # Contributors
-Vikash Panjiyar
-Yusi Zhou
-Luming Ji
+Vikash Panjiyar\n
+Yusi Zhou\n
+Luming Ji\n
 
 # Motivation
 
