@@ -6,14 +6,14 @@ fun: the words magically appear on the page with proper breaths, as measured
 by the device used.
 
 # Contributors
-Vikash Panjiyar (Team Leader)
-Yusi Zhou
-Luming Ji
+Vikash Panjiyar (Team Leader)  
+Yusi Zhou  
+Luming Ji 
 
 # Instructions
-StoryBook is easy to use!
-Select a book from the shelf by tapping on it.
-Then simply breathe into the device to start reading.
+StoryBook is easy to use!  
+Select a book from the shelf by tapping on it.  
+Then simply breathe into the device to start reading.  
 
 # Features
 + Pages turn automatically
