@@ -1,0 +1,591 @@
+{
+    "console": [],
+    "result": {
+        "passages": [
+            {
+                "Name": "Chapter 1: Mowgli's Brothers",
+                "Pid": "1",
+                "Tags": "Page1",
+                "Tokens": [
+                    {
+                        "text": "   Now Rann the Kite brings home the night",
+                        "type": "text"
+                    },
+                    {
+                        "text": "\n",
+                        "type": "br"
+                    },
+                    {
+                        "text": "      That Mang the Bat sets free--",
+                        "type": "text"
+                    },
+                    {
+                        "text": "\n",
+                        "type": "br"
+                    },
+                    {
+                        "text": "   The herds are shut in byre and hut",
+                        "type": "text"
+                    },
+                    {
+                        "text": "\n",
+                        "type": "br"
+                    },
+                    {
+                        "text": "      For loosed till dawn are we.",
+                        "type": "text"
+                    },
+                    {
+                        "text": "\n",
+                        "type": "br"
+                    },
+                    {
+                        "text": "   This is the hour of pride and power,",
+                        "type": "text"
+                    },
+                    {
+                        "text": "\n",
+                        "type": "br"
+                    },
+                    {
+                        "text": "      Talon and tush and claw.",
+                        "type": "text"
+                    },
+                    {
+                        "text": "\n",
+                        "type": "br"
+                    },
+                    {
+                        "text": "   Oh, hear the call!--Good hunting all",
+                        "type": "text"
+                    },
+                    {
+                        "text": "\n",
+                        "type": "br"
+                    },
+                    {
+                        "text": "      That keep the Jungle Law!",
+                        "type": "text"
+                    },
+                    {
+                        "text": "\n",
+                        "type": "br"
+                    },
+                    {
+                        "text": "   Night-Song in the Jungle",
+                        "type": "text"
+                    },
+                    {
+                        "text": "\n",
+                        "type": "br"
+                    },
+                    {
+                        "text": "   ",
+                        "type": "text"
+                    },
+                    {
+                        "text": "\n",
+                        "type": "br"
+                    },
+                    {
+                        "innerText": "link-goto:\"Page2\",\"Page2\"",
+                        "name": "linkgoto",
+                        "text": "(link-goto:\"Page2\",\"Page2\")",
+                        "tokens": [
+                            {
+                                "text": "link-goto:",
+                                "type": "macroName"
+                            },
+                            {
+                                "innerText": "Page2",
+                                "text": "\"Page2\"",
+                                "type": "string"
+                            },
+                            {
+                                "text": ",",
+                                "type": "comma"
+                            },
+                            {
+                                "innerText": "Page2",
+                                "text": "\"Page2\"",
+                                "type": "string"
+                            }
+                        ],
+                        "type": "macro"
+                    }
+                ]
+            },
+            {
+                "Name": "Page2",
+                "Pid": "2",
+                "Tags": "",
+                "Tokens": [
+                    {
+                        "text": "It was seven o'clock of a very warm evening in the Seeonee hills",
+                        "type": "text"
+                    },
+                    {
+                        "text": "\n",
+                        "type": "br"
+                    },
+                    {
+                        "text": "when Father Wolf woke up from his day's rest, scratched himself,",
+                        "type": "text"
+                    },
+                    {
+                        "text": "\n",
+                        "type": "br"
+                    },
+                    {
+                        "text": "yawned, and spread out his paws one after the other to get rid of",
+                        "type": "text"
+                    },
+                    {
+                        "text": "\n",
+                        "type": "br"
+                    },
+                    {
+                        "text": "the sleepy feeling in their tips.  Mother Wolf lay with her big",
+                        "type": "text"
+                    },
+                    {
+                        "text": "\n",
+                        "type": "br"
+                    },
+                    {
+                        "text": "gray nose dropped across her four tumbling, squealing cubs, and",
+                        "type": "text"
+                    },
+                    {
+                        "text": "\n",
+                        "type": "br"
+                    },
+                    {
+                        "text": "the moon shone into the mouth of the cave where they all lived.",
+                        "type": "text"
+                    },
+                    {
+                        "text": "\n",
+                        "type": "br"
+                    },
+                    {
+                        "text": "\"Augrh!\" said Father Wolf.  \"It is time to hunt again.\"  He was",
+                        "type": "text"
+                    },
+                    {
+                        "text": "\n",
+                        "type": "br"
+                    },
+                    {
+                        "text": "going to spring down hill when a little shadow with a bushy tail",
+                        "type": "text"
+                    },
+                    {
+                        "text": "\n",
+                        "type": "br"
+                    },
+                    {
+                        "text": "crossed the threshold and whined: \"Good luck go with you, O Chief",
+                        "type": "text"
+                    },
+                    {
+                        "text": "\n",
+                        "type": "br"
+                    },
+                    {
+                        "text": "of the Wolves.  And good luck and strong white teeth go with noble",
+                        "type": "text"
+                    },
+                    {
+                        "text": "\n",
+                        "type": "br"
+                    },
+                    {
+                        "text": "children that they may never forget the hungry in this world.\"",
+                        "type": "text"
+                    },
+                    {
+                        "text": "\n",
+                        "type": "br"
+                    },
+                    {
+                        "text": "\n",
+                        "type": "br"
+                    },
+                    {
+                        "innerText": "link-goto:\"Page3\",\"Page3\"",
+                        "name": "linkgoto",
+                        "text": "(link-goto:\"Page3\",\"Page3\")",
+                        "tokens": [
+                            {
+                                "text": "link-goto:",
+                                "type": "macroName"
+                            },
+                            {
+                                "innerText": "Page3",
+                                "text": "\"Page3\"",
+                                "type": "string"
+                            },
+                            {
+                                "text": ",",
+                                "type": "comma"
+                            },
+                            {
+                                "innerText": "Page3",
+                                "text": "\"Page3\"",
+                                "type": "string"
+                            }
+                        ],
+                        "type": "macro"
+                    }
+                ]
+            },
+            {
+                "Name": "Page3",
+                "Pid": "3",
+                "Tags": "",
+                "Tokens": [
+                    {
+                        "text": "It was the jackal--Tabaqui, the Dish-licker--and the",
+                        "type": "text"
+                    },
+                    {
+                        "text": "\n",
+                        "type": "br"
+                    },
+                    {
+                        "text": "wolves of India despise Tabaqui because he runs about making",
+                        "type": "text"
+                    },
+                    {
+                        "text": "\n",
+                        "type": "br"
+                    },
+                    {
+                        "text": "mischief, and telling tales, and eating rags and pieces of leather",
+                        "type": "text"
+                    },
+                    {
+                        "text": "\n",
+                        "type": "br"
+                    },
+                    {
+                        "text": "from the village rubbish-heaps.  But they are afraid of him too,",
+                        "type": "text"
+                    },
+                    {
+                        "text": "\n",
+                        "type": "br"
+                    },
+                    {
+                        "text": "because Tabaqui, more than anyone else in the jungle, is apt to go",
+                        "type": "text"
+                    },
+                    {
+                        "text": "\n",
+                        "type": "br"
+                    },
+                    {
+                        "text": "mad, and then he forgets that he was ever afraid of anyone, and",
+                        "type": "text"
+                    },
+                    {
+                        "text": "\n",
+                        "type": "br"
+                    },
+                    {
+                        "text": "runs through the forest biting everything in his way.  Even the",
+                        "type": "text"
+                    },
+                    {
+                        "text": "\n",
+                        "type": "br"
+                    },
+                    {
+                        "text": "tiger runs and hides when little Tabaqui goes mad, for madness is",
+                        "type": "text"
+                    },
+                    {
+                        "text": "\n",
+                        "type": "br"
+                    },
+                    {
+                        "text": "the most disgraceful thing that can overtake a wild creature.  We",
+                        "type": "text"
+                    },
+                    {
+                        "text": "\n",
+                        "type": "br"
+                    },
+                    {
+                        "text": "call it hydrophobia, but they call it dewanee--the madness--",
+                        "type": "text"
+                    },
+                    {
+                        "text": "\n",
+                        "type": "br"
+                    },
+                    {
+                        "text": "and run.",
+                        "type": "text"
+                    },
+                    {
+                        "text": "\n",
+                        "type": "br"
+                    },
+                    {
+                        "text": "\n",
+                        "type": "br"
+                    },
+                    {
+                        "innerText": "link-goto:\"Page4\",\"Page4\"",
+                        "name": "linkgoto",
+                        "text": "(link-goto:\"Page4\",\"Page4\")",
+                        "tokens": [
+                            {
+                                "text": "link-goto:",
+                                "type": "macroName"
+                            },
+                            {
+                                "innerText": "Page4",
+                                "text": "\"Page4\"",
+                                "type": "string"
+                            },
+                            {
+                                "text": ",",
+                                "type": "comma"
+                            },
+                            {
+                                "innerText": "Page4",
+                                "text": "\"Page4\"",
+                                "type": "string"
+                            }
+                        ],
+                        "type": "macro"
+                    }
+                ]
+            },
+            {
+                "Name": "Page4",
+                "Pid": "4",
+                "Tags": "",
+                "Tokens": [
+                    {
+                        "text": "\"Enter, then, and look,\" said Father Wolf stiffly, \"but there",
+                        "type": "text"
+                    },
+                    {
+                        "text": "\n",
+                        "type": "br"
+                    },
+                    {
+                        "text": "is no food here.\"",
+                        "type": "text"
+                    },
+                    {
+                        "text": "\n",
+                        "type": "br"
+                    },
+                    {
+                        "text": "\n",
+                        "type": "br"
+                    },
+                    {
+                        "text": "\"For a wolf, no,\" said Tabaqui, \"but for so mean a person as",
+                        "type": "text"
+                    },
+                    {
+                        "text": "\n",
+                        "type": "br"
+                    },
+                    {
+                        "text": "myself a dry bone is a good feast.  Who are we, the Gidur-log ",
+                        "type": "text"
+                    },
+                    {
+                        "innerText": "the\njackal people",
+                        "text": "[the\njackal people]",
+                        "tokens": [
+                            {
+                                "text": "the",
+                                "type": "text"
+                            },
+                            {
+                                "text": "\n",
+                                "type": "br"
+                            },
+                            {
+                                "text": "jackal people",
+                                "type": "text"
+                            }
+                        ],
+                        "type": "hook"
+                    },
+                    {
+                        "text": ", to pick and choose?\"  He scuttled to the back of",
+                        "type": "text"
+                    },
+                    {
+                        "text": "\n",
+                        "type": "br"
+                    },
+                    {
+                        "text": "the cave, where he found the bone of a buck with some meat on it,",
+                        "type": "text"
+                    },
+                    {
+                        "text": "\n",
+                        "type": "br"
+                    },
+                    {
+                        "text": "and sat cracking the end merrily.",
+                        "type": "text"
+                    },
+                    {
+                        "text": "\n",
+                        "type": "br"
+                    },
+                    {
+                        "text": "\n",
+                        "type": "br"
+                    },
+                    {
+                        "innerText": "link-goto:\"Page5\",\"Page5\"",
+                        "name": "linkgoto",
+                        "text": "(link-goto:\"Page5\",\"Page5\")",
+                        "tokens": [
+                            {
+                                "text": "link-goto:",
+                                "type": "macroName"
+                            },
+                            {
+                                "innerText": "Page5",
+                                "text": "\"Page5\"",
+                                "type": "string"
+                            },
+                            {
+                                "text": ",",
+                                "type": "comma"
+                            },
+                            {
+                                "innerText": "Page5",
+                                "text": "\"Page5\"",
+                                "type": "string"
+                            }
+                        ],
+                        "type": "macro"
+                    }
+                ]
+            },
+            {
+                "Name": "Page5",
+                "Pid": "5",
+                "Tags": "",
+                "Tokens": [
+                    {
+                        "text": "\"All thanks for this good meal,\" he said, licking his lips.",
+                        "type": "text"
+                    },
+                    {
+                        "text": "\n",
+                        "type": "br"
+                    },
+                    {
+                        "text": "\"How beautiful are the noble children!  How large are their eyes!",
+                        "type": "text"
+                    },
+                    {
+                        "text": "\n",
+                        "type": "br"
+                    },
+                    {
+                        "text": "And so young too!  Indeed, indeed, I might have remembered that",
+                        "type": "text"
+                    },
+                    {
+                        "text": "\n",
+                        "type": "br"
+                    },
+                    {
+                        "text": "the children of kings are men from the beginning.\"",
+                        "type": "text"
+                    },
+                    {
+                        "text": "\n",
+                        "type": "br"
+                    },
+                    {
+                        "text": "\n",
+                        "type": "br"
+                    },
+                    {
+                        "text": "Now, Tabaqui knew as well as anyone else that there is nothing",
+                        "type": "text"
+                    },
+                    {
+                        "text": "\n",
+                        "type": "br"
+                    },
+                    {
+                        "text": "so unlucky as to compliment children to their faces.  It pleased",
+                        "type": "text"
+                    },
+                    {
+                        "text": "\n",
+                        "type": "br"
+                    },
+                    {
+                        "text": "him to see Mother and Father Wolf look uncomfortable.",
+                        "type": "text"
+                    },
+                    {
+                        "text": "\n",
+                        "type": "br"
+                    },
+                    {
+                        "text": "\n",
+                        "type": "br"
+                    },
+                    {
+                        "innerText": "link-goto:\"Page6\",\"Page6\"",
+                        "name": "linkgoto",
+                        "text": "(link-goto:\"Page6\",\"Page6\")",
+                        "tokens": [
+                            {
+                                "text": "link-goto:",
+                                "type": "macroName"
+                            },
+                            {
+                                "innerText": "Page6",
+                                "text": "\"Page6\"",
+                                "type": "string"
+                            },
+                            {
+                                "text": ",",
+                                "type": "comma"
+                            },
+                            {
+                                "innerText": "Page6",
+                                "text": "\"Page6\"",
+                                "type": "string"
+                            }
+                        ],
+                        "type": "macro"
+                    }
+                ]
+            },
+            {
+                "Name": "Page6",
+                "Pid": "6",
+                "Tags": "",
+                "Tokens": [
+                    {
+                        "text": "Double-click this passage to edit it.",
+                        "type": "text"
+                    }
+                ]
+            }
+        ],
+        "startPid": "1"
+    }
+}
