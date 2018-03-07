@@ -5,19 +5,22 @@
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
-    <ProjectGuid>{859E5E66-4E6C-B13D-EE26-C0D42ADA1963}</ProjectGuid>
+    <ProjectGuid>{943431E7-E198-4C97-9BDE-AAED5A001551}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AssemblyName>Assembly-CSharp-player</AssemblyName>
     <FileAlignment>512</FileAlignment>
     <ProjectTypeGuids>{E097FAD1-6243-4DAD-9C02-E9B9EFC3FFC1};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
     <TargetFrameworkIdentifier>.NETFramework</TargetFrameworkIdentifier>
-    <TargetFrameworkVersion>v4.6</TargetFrameworkVersion>
-    <TargetFrameworkProfile></TargetFrameworkProfile>
-    <CompilerResponseFile></CompilerResponseFile>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <TargetFrameworkProfile>
+    </TargetFrameworkProfile>
+    <CompilerResponseFile>
+    </CompilerResponseFile>
     <UnityProjectType>Game:1</UnityProjectType>
     <UnityBuildTarget>WSAPlayer:21</UnityBuildTarget>
     <UnityVersion>2017.3.1f1</UnityVersion>
-    <RootNamespace></RootNamespace>
+    <RootNamespace>
+    </RootNamespace>
     <LangVersion>6</LangVersion>
   </PropertyGroup>
   <PropertyGroup>
@@ -504,7 +507,7 @@
     <Compile Include="Assets\Fizzyo\Scripts\SceneScripts\PressureGraph.cs" />
     <Compile Include="Assets\Fizzyo\Scripts\SceneScripts\ProgressEllipse.cs" />
     <Compile Include="Assets\Fizzyo\Scripts\SceneScripts\Recalibration.cs" />
-    <Compile Include="Assets\Resources\Sample1.cs" />
+    <Compile Include="Assets\Resources\chapter1.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\Cradle\Editor\ThirdParty\PhantomJS\third-party.txt" />

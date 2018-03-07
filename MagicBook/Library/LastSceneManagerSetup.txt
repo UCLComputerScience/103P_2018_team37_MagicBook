@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/CradleScene.unity
+- path: Assets/Chapter1[Inc].unity
   isLoaded: 1
   isActive: 1
