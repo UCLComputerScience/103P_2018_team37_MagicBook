@@ -283,6 +283,18 @@ Prefab:
       propertyPath: m_SizeDelta.y
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 11453718, guid: c4ae6fc83f0d4f64091afc0dccd76dd6, type: 2}
+      propertyPath: m_Color.r
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 11453718, guid: c4ae6fc83f0d4f64091afc0dccd76dd6, type: 2}
+      propertyPath: m_Color.g
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 11453718, guid: c4ae6fc83f0d4f64091afc0dccd76dd6, type: 2}
+      propertyPath: m_Color.b
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: c4ae6fc83f0d4f64091afc0dccd76dd6, type: 2}
   m_IsPrefabParent: 0
@@ -442,19 +454,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e0f29dd822be18445aafc5ec56ba31ae, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  AutoPlay: 1
-  StartPassage: Chapter 1
-  AdditionalCues: []
-  <NumberOfLinksDone>k__BackingField: 0
-  <PassageHistory>k__BackingField: []
-  _state: 0
-  _lastThreadResult: 1
-  _passageWaitingToEnter: 
-  _passageEnterCueInvoked: 0
-  _cueTargets: []
-  _timeChangedToPlay: 0
-  _timeAccumulated: 0
-  DebugMode: 0
 --- !u!114 &2134412019
 MonoBehaviour:
   m_ObjectHideFlags: 0
