@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Fizzyo/Scenes/Menu.unity
+  isLoaded: 1
+  isActive: 1
