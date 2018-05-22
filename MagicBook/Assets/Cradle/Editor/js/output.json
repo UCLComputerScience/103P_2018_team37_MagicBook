@@ -3148,8 +3148,3135 @@
                 "Tags": "",
                 "Tokens": [
                     {
-                        "text": "Double-click this passage to edit it.",
+                        "text": "\"Ye choose and ye do not choose!  What talk is this of",
                         "type": "text"
+                    },
+                    {
+                        "text": "\n",
+                        "type": "br"
+                    },
+                    {
+                        "text": "choosing?  By the bull that I killed, am I to stand nosing into",
+                        "type": "text"
+                    },
+                    {
+                        "text": "\n",
+                        "type": "br"
+                    },
+                    {
+                        "text": "your dog's den for my fair dues?  It is I, Shere Khan, who speak!\"",
+                        "type": "text"
+                    },
+                    {
+                        "text": "\n",
+                        "type": "br"
+                    },
+                    {
+                        "text": "\n",
+                        "type": "br"
+                    },
+                    {
+                        "innerText": "link-goto:\"Page52\",\"Page52\"",
+                        "name": "linkgoto",
+                        "text": "(link-goto:\"Page52\",\"Page52\")",
+                        "tokens": [
+                            {
+                                "text": "link-goto:",
+                                "type": "macroName"
+                            },
+                            {
+                                "innerText": "Page52",
+                                "text": "\"Page52\"",
+                                "type": "string"
+                            },
+                            {
+                                "text": ",",
+                                "type": "comma"
+                            },
+                            {
+                                "innerText": "Page52",
+                                "text": "\"Page52\"",
+                                "type": "string"
+                            }
+                        ],
+                        "type": "macro"
+                    }
+                ]
+            },
+            {
+                "Name": "Page52",
+                "Pid": "52",
+                "Tags": "",
+                "Tokens": [
+                    {
+                        "text": "The tiger's roar filled the cave with thunder.  Mother Wolf",
+                        "type": "text"
+                    },
+                    {
+                        "text": "\n",
+                        "type": "br"
+                    },
+                    {
+                        "text": "shook herself clear of the cubs and sprang forward, her eyes, like",
+                        "type": "text"
+                    },
+                    {
+                        "text": "\n",
+                        "type": "br"
+                    },
+                    {
+                        "text": "two green moons in the darkness, facing the blazing eyes of Shere",
+                        "type": "text"
+                    },
+                    {
+                        "text": "\n",
+                        "type": "br"
+                    },
+                    {
+                        "text": "Khan.",
+                        "type": "text"
+                    },
+                    {
+                        "text": "\n",
+                        "type": "br"
+                    },
+                    {
+                        "text": "\n",
+                        "type": "br"
+                    },
+                    {
+                        "innerText": "link-goto:\"Page53\",\"Page53\"",
+                        "name": "linkgoto",
+                        "text": "(link-goto:\"Page53\",\"Page53\")",
+                        "tokens": [
+                            {
+                                "text": "link-goto:",
+                                "type": "macroName"
+                            },
+                            {
+                                "innerText": "Page53",
+                                "text": "\"Page53\"",
+                                "type": "string"
+                            },
+                            {
+                                "text": ",",
+                                "type": "comma"
+                            },
+                            {
+                                "innerText": "Page53",
+                                "text": "\"Page53\"",
+                                "type": "string"
+                            }
+                        ],
+                        "type": "macro"
+                    }
+                ]
+            },
+            {
+                "Name": "Page53",
+                "Pid": "53",
+                "Tags": "",
+                "Tokens": [
+                    {
+                        "text": "\"And it is I, Raksha ",
+                        "type": "text"
+                    },
+                    {
+                        "innerText": "The Demon",
+                        "text": "[The Demon]",
+                        "tokens": [
+                            {
+                                "text": "The Demon",
+                                "type": "text"
+                            }
+                        ],
+                        "type": "hook"
+                    },
+                    {
+                        "text": ", who answers.  The man's cub",
+                        "type": "text"
+                    },
+                    {
+                        "text": "\n",
+                        "type": "br"
+                    },
+                    {
+                        "text": "is mine, Lungri--mine to me!  He shall not be killed.  He shall",
+                        "type": "text"
+                    },
+                    {
+                        "text": "\n",
+                        "type": "br"
+                    },
+                    {
+                        "text": "live to run with the Pack and to hunt with the Pack; and in the",
+                        "type": "text"
+                    },
+                    {
+                        "text": "\n",
+                        "type": "br"
+                    },
+                    {
+                        "text": "end, look you, hunter of little naked cubs--frog-eater--",
+                        "type": "text"
+                    },
+                    {
+                        "text": "\n",
+                        "type": "br"
+                    },
+                    {
+                        "text": "fish-killer--he shall hunt thee!",
+                        "type": "text"
+                    },
+                    {
+                        "text": "\n",
+                        "type": "br"
+                    },
+                    {
+                        "text": "\n",
+                        "type": "br"
+                    },
+                    {
+                        "innerText": "link-goto:\"Page54\",\"Page54\"",
+                        "name": "linkgoto",
+                        "text": "(link-goto:\"Page54\",\"Page54\")",
+                        "tokens": [
+                            {
+                                "text": "link-goto:",
+                                "type": "macroName"
+                            },
+                            {
+                                "innerText": "Page54",
+                                "text": "\"Page54\"",
+                                "type": "string"
+                            },
+                            {
+                                "text": ",",
+                                "type": "comma"
+                            },
+                            {
+                                "innerText": "Page54",
+                                "text": "\"Page54\"",
+                                "type": "string"
+                            }
+                        ],
+                        "type": "macro"
+                    }
+                ]
+            },
+            {
+                "Name": "Page54",
+                "Pid": "54",
+                "Tags": "",
+                "Tokens": [
+                    {
+                        "text": "Now get hence, or by the",
+                        "type": "text"
+                    },
+                    {
+                        "text": "\n",
+                        "type": "br"
+                    },
+                    {
+                        "text": "Sambhur that I killed (I eat no starved cattle), back thou goest",
+                        "type": "text"
+                    },
+                    {
+                        "text": "\n",
+                        "type": "br"
+                    },
+                    {
+                        "text": "to thy mother, burned beast of the jungle, lamer than ever thou",
+                        "type": "text"
+                    },
+                    {
+                        "text": "\n",
+                        "type": "br"
+                    },
+                    {
+                        "text": "camest into the world!  Go!\"",
+                        "type": "text"
+                    },
+                    {
+                        "text": "\n",
+                        "type": "br"
+                    },
+                    {
+                        "text": "\n",
+                        "type": "br"
+                    },
+                    {
+                        "innerText": "link-goto:\"Page55\",\"Page55\"",
+                        "name": "linkgoto",
+                        "text": "(link-goto:\"Page55\",\"Page55\")",
+                        "tokens": [
+                            {
+                                "text": "link-goto:",
+                                "type": "macroName"
+                            },
+                            {
+                                "innerText": "Page55",
+                                "text": "\"Page55\"",
+                                "type": "string"
+                            },
+                            {
+                                "text": ",",
+                                "type": "comma"
+                            },
+                            {
+                                "innerText": "Page55",
+                                "text": "\"Page55\"",
+                                "type": "string"
+                            }
+                        ],
+                        "type": "macro"
+                    }
+                ]
+            },
+            {
+                "Name": "Page55",
+                "Pid": "55",
+                "Tags": "",
+                "Tokens": [
+                    {
+                        "text": "Father Wolf looked on amazed.  He had almost forgotten the",
+                        "type": "text"
+                    },
+                    {
+                        "text": "\n",
+                        "type": "br"
+                    },
+                    {
+                        "text": "days when he won Mother Wolf in fair fight from five other wolves,",
+                        "type": "text"
+                    },
+                    {
+                        "text": "\n",
+                        "type": "br"
+                    },
+                    {
+                        "text": "when she ran in the Pack and was not called The Demon for",
+                        "type": "text"
+                    },
+                    {
+                        "text": "\n",
+                        "type": "br"
+                    },
+                    {
+                        "text": "compliment's sake.",
+                        "type": "text"
+                    },
+                    {
+                        "text": "\n",
+                        "type": "br"
+                    },
+                    {
+                        "text": "\n",
+                        "type": "br"
+                    },
+                    {
+                        "innerText": "link-goto:\"Page56\",\"Page56\"",
+                        "name": "linkgoto",
+                        "text": "(link-goto:\"Page56\",\"Page56\")",
+                        "tokens": [
+                            {
+                                "text": "link-goto:",
+                                "type": "macroName"
+                            },
+                            {
+                                "innerText": "Page56",
+                                "text": "\"Page56\"",
+                                "type": "string"
+                            },
+                            {
+                                "text": ",",
+                                "type": "comma"
+                            },
+                            {
+                                "innerText": "Page56",
+                                "text": "\"Page56\"",
+                                "type": "string"
+                            }
+                        ],
+                        "type": "macro"
+                    }
+                ]
+            },
+            {
+                "Name": "Page56",
+                "Pid": "56",
+                "Tags": "",
+                "Tokens": [
+                    {
+                        "text": "Shere Khan might have faced Father Wolf, but",
+                        "type": "text"
+                    },
+                    {
+                        "text": "\n",
+                        "type": "br"
+                    },
+                    {
+                        "text": "he could not stand up against Mother Wolf, for he knew that where",
+                        "type": "text"
+                    },
+                    {
+                        "text": "\n",
+                        "type": "br"
+                    },
+                    {
+                        "text": "he was she had all the advantage of the ground, and would fight to",
+                        "type": "text"
+                    },
+                    {
+                        "text": "\n",
+                        "type": "br"
+                    },
+                    {
+                        "text": "the death.",
+                        "type": "text"
+                    },
+                    {
+                        "text": "\n",
+                        "type": "br"
+                    },
+                    {
+                        "text": "\n",
+                        "type": "br"
+                    },
+                    {
+                        "innerText": "link-goto:\"Page57\",\"Page57\"",
+                        "name": "linkgoto",
+                        "text": "(link-goto:\"Page57\",\"Page57\")",
+                        "tokens": [
+                            {
+                                "text": "link-goto:",
+                                "type": "macroName"
+                            },
+                            {
+                                "innerText": "Page57",
+                                "text": "\"Page57\"",
+                                "type": "string"
+                            },
+                            {
+                                "text": ",",
+                                "type": "comma"
+                            },
+                            {
+                                "innerText": "Page57",
+                                "text": "\"Page57\"",
+                                "type": "string"
+                            }
+                        ],
+                        "type": "macro"
+                    }
+                ]
+            },
+            {
+                "Name": "Page57",
+                "Pid": "57",
+                "Tags": "",
+                "Tokens": [
+                    {
+                        "text": "So he backed out of the cave mouth growling, and when",
+                        "type": "text"
+                    },
+                    {
+                        "text": "\n",
+                        "type": "br"
+                    },
+                    {
+                        "text": "he was clear he shouted:",
+                        "type": "text"
+                    },
+                    {
+                        "text": "\n",
+                        "type": "br"
+                    },
+                    {
+                        "text": "\n",
+                        "type": "br"
+                    },
+                    {
+                        "innerText": "link-goto:\"Page58\",\"Page58\"",
+                        "name": "linkgoto",
+                        "text": "(link-goto:\"Page58\",\"Page58\")",
+                        "tokens": [
+                            {
+                                "text": "link-goto:",
+                                "type": "macroName"
+                            },
+                            {
+                                "innerText": "Page58",
+                                "text": "\"Page58\"",
+                                "type": "string"
+                            },
+                            {
+                                "text": ",",
+                                "type": "comma"
+                            },
+                            {
+                                "innerText": "Page58",
+                                "text": "\"Page58\"",
+                                "type": "string"
+                            }
+                        ],
+                        "type": "macro"
+                    }
+                ]
+            },
+            {
+                "Name": "Page58",
+                "Pid": "58",
+                "Tags": "",
+                "Tokens": [
+                    {
+                        "text": "\"Each dog barks in his own yard!  We will see what the Pack",
+                        "type": "text"
+                    },
+                    {
+                        "text": "\n",
+                        "type": "br"
+                    },
+                    {
+                        "text": "will say to this fostering of man-cubs.  The cub is mine, and to",
+                        "type": "text"
+                    },
+                    {
+                        "text": "\n",
+                        "type": "br"
+                    },
+                    {
+                        "text": "my teeth he will come in the end, O bush-tailed thieves!\"",
+                        "type": "text"
+                    },
+                    {
+                        "text": "\n",
+                        "type": "br"
+                    },
+                    {
+                        "text": "\n",
+                        "type": "br"
+                    },
+                    {
+                        "innerText": "link-goto:\"Page59\",\"Page59\"",
+                        "name": "linkgoto",
+                        "text": "(link-goto:\"Page59\",\"Page59\")",
+                        "tokens": [
+                            {
+                                "text": "link-goto:",
+                                "type": "macroName"
+                            },
+                            {
+                                "innerText": "Page59",
+                                "text": "\"Page59\"",
+                                "type": "string"
+                            },
+                            {
+                                "text": ",",
+                                "type": "comma"
+                            },
+                            {
+                                "innerText": "Page59",
+                                "text": "\"Page59\"",
+                                "type": "string"
+                            }
+                        ],
+                        "type": "macro"
+                    }
+                ]
+            },
+            {
+                "Name": "Page59",
+                "Pid": "59",
+                "Tags": "",
+                "Tokens": [
+                    {
+                        "text": "Mother Wolf threw herself down panting among the cubs, and",
+                        "type": "text"
+                    },
+                    {
+                        "text": "\n",
+                        "type": "br"
+                    },
+                    {
+                        "text": "Father Wolf said to her gravely:",
+                        "type": "text"
+                    },
+                    {
+                        "text": "\n",
+                        "type": "br"
+                    },
+                    {
+                        "text": "\n",
+                        "type": "br"
+                    },
+                    {
+                        "innerText": "link-goto:\"Page60\",\"Page60\"",
+                        "name": "linkgoto",
+                        "text": "(link-goto:\"Page60\",\"Page60\")",
+                        "tokens": [
+                            {
+                                "text": "link-goto:",
+                                "type": "macroName"
+                            },
+                            {
+                                "innerText": "Page60",
+                                "text": "\"Page60\"",
+                                "type": "string"
+                            },
+                            {
+                                "text": ",",
+                                "type": "comma"
+                            },
+                            {
+                                "innerText": "Page60",
+                                "text": "\"Page60\"",
+                                "type": "string"
+                            }
+                        ],
+                        "type": "macro"
+                    }
+                ]
+            },
+            {
+                "Name": "Page60",
+                "Pid": "60",
+                "Tags": "",
+                "Tokens": [
+                    {
+                        "text": "\"Shere Khan speaks this much truth.  The cub must be shown to",
+                        "type": "text"
+                    },
+                    {
+                        "text": "\n",
+                        "type": "br"
+                    },
+                    {
+                        "text": "the Pack.  Wilt thou still keep him, Mother?\"",
+                        "type": "text"
+                    },
+                    {
+                        "text": "\n",
+                        "type": "br"
+                    },
+                    {
+                        "text": "\n",
+                        "type": "br"
+                    },
+                    {
+                        "innerText": "link-goto:\"Page61\",\"Page61\"",
+                        "name": "linkgoto",
+                        "text": "(link-goto:\"Page61\",\"Page61\")",
+                        "tokens": [
+                            {
+                                "text": "link-goto:",
+                                "type": "macroName"
+                            },
+                            {
+                                "innerText": "Page61",
+                                "text": "\"Page61\"",
+                                "type": "string"
+                            },
+                            {
+                                "text": ",",
+                                "type": "comma"
+                            },
+                            {
+                                "innerText": "Page61",
+                                "text": "\"Page61\"",
+                                "type": "string"
+                            }
+                        ],
+                        "type": "macro"
+                    }
+                ]
+            },
+            {
+                "Name": "Page61",
+                "Pid": "61",
+                "Tags": "",
+                "Tokens": [
+                    {
+                        "text": "\"Keep him!\" she gasped.  \"He came naked, by night, alone and",
+                        "type": "text"
+                    },
+                    {
+                        "text": "\n",
+                        "type": "br"
+                    },
+                    {
+                        "text": "very hungry; yet he was not afraid!  Look, he has pushed one of my",
+                        "type": "text"
+                    },
+                    {
+                        "text": "\n",
+                        "type": "br"
+                    },
+                    {
+                        "text": "babes to one side already.  And that lame butcher would have",
+                        "type": "text"
+                    },
+                    {
+                        "text": "\n",
+                        "type": "br"
+                    },
+                    {
+                        "text": "killed him and would have run off to the Waingunga while the",
+                        "type": "text"
+                    },
+                    {
+                        "text": "\n",
+                        "type": "br"
+                    },
+                    {
+                        "text": "villagers here hunted through all our lairs in revenge!",
+                        "type": "text"
+                    },
+                    {
+                        "text": "\n",
+                        "type": "br"
+                    },
+                    {
+                        "text": "\n",
+                        "type": "br"
+                    },
+                    {
+                        "innerText": "link-goto:\"Page62\",\"Page62\"",
+                        "name": "linkgoto",
+                        "text": "(link-goto:\"Page62\",\"Page62\")",
+                        "tokens": [
+                            {
+                                "text": "link-goto:",
+                                "type": "macroName"
+                            },
+                            {
+                                "innerText": "Page62",
+                                "text": "\"Page62\"",
+                                "type": "string"
+                            },
+                            {
+                                "text": ",",
+                                "type": "comma"
+                            },
+                            {
+                                "innerText": "Page62",
+                                "text": "\"Page62\"",
+                                "type": "string"
+                            }
+                        ],
+                        "type": "macro"
+                    }
+                ]
+            },
+            {
+                "Name": "Page62",
+                "Pid": "62",
+                "Tags": "",
+                "Tokens": [
+                    {
+                        "text": "Keep him?",
+                        "type": "text"
+                    },
+                    {
+                        "text": "\n",
+                        "type": "br"
+                    },
+                    {
+                        "text": "Assuredly I will keep him.  Lie still, little frog.  O thou Mowgli",
+                        "type": "text"
+                    },
+                    {
+                        "text": "\n",
+                        "type": "br"
+                    },
+                    {
+                        "text": "--for Mowgli the Frog I will call thee--the time will come when",
+                        "type": "text"
+                    },
+                    {
+                        "text": "\n",
+                        "type": "br"
+                    },
+                    {
+                        "text": "thou wilt hunt Shere Khan as he has hunted thee.\"",
+                        "type": "text"
+                    },
+                    {
+                        "text": "\n",
+                        "type": "br"
+                    },
+                    {
+                        "text": "\n",
+                        "type": "br"
+                    },
+                    {
+                        "innerText": "link-goto:\"Page63\",\"Page63\"",
+                        "name": "linkgoto",
+                        "text": "(link-goto:\"Page63\",\"Page63\")",
+                        "tokens": [
+                            {
+                                "text": "link-goto:",
+                                "type": "macroName"
+                            },
+                            {
+                                "innerText": "Page63",
+                                "text": "\"Page63\"",
+                                "type": "string"
+                            },
+                            {
+                                "text": ",",
+                                "type": "comma"
+                            },
+                            {
+                                "innerText": "Page63",
+                                "text": "\"Page63\"",
+                                "type": "string"
+                            }
+                        ],
+                        "type": "macro"
+                    }
+                ]
+            },
+            {
+                "Name": "Page63",
+                "Pid": "63",
+                "Tags": "",
+                "Tokens": [
+                    {
+                        "text": "\"But what will our Pack say?\" said Father Wolf.",
+                        "type": "text"
+                    },
+                    {
+                        "text": "\n",
+                        "type": "br"
+                    },
+                    {
+                        "text": "\n",
+                        "type": "br"
+                    },
+                    {
+                        "innerText": "link-goto:\"Page64\",\"Page64\"",
+                        "name": "linkgoto",
+                        "text": "(link-goto:\"Page64\",\"Page64\")",
+                        "tokens": [
+                            {
+                                "text": "link-goto:",
+                                "type": "macroName"
+                            },
+                            {
+                                "innerText": "Page64",
+                                "text": "\"Page64\"",
+                                "type": "string"
+                            },
+                            {
+                                "text": ",",
+                                "type": "comma"
+                            },
+                            {
+                                "innerText": "Page64",
+                                "text": "\"Page64\"",
+                                "type": "string"
+                            }
+                        ],
+                        "type": "macro"
+                    }
+                ]
+            },
+            {
+                "Name": "Page64",
+                "Pid": "64",
+                "Tags": "",
+                "Tokens": [
+                    {
+                        "text": "The Law of the Jungle lays down very clearly that any wolf",
+                        "type": "text"
+                    },
+                    {
+                        "text": "\n",
+                        "type": "br"
+                    },
+                    {
+                        "text": "may, when he marries, withdraw from the Pack he belongs to.  But",
+                        "type": "text"
+                    },
+                    {
+                        "text": "\n",
+                        "type": "br"
+                    },
+                    {
+                        "text": "as soon as his cubs are old enough to stand on their feet he must",
+                        "type": "text"
+                    },
+                    {
+                        "text": "\n",
+                        "type": "br"
+                    },
+                    {
+                        "text": "bring them to the Pack Council, which is generally held once a",
+                        "type": "text"
+                    },
+                    {
+                        "text": "\n",
+                        "type": "br"
+                    },
+                    {
+                        "text": "month at full moon, in order that the other wolves may identify",
+                        "type": "text"
+                    },
+                    {
+                        "text": "\n",
+                        "type": "br"
+                    },
+                    {
+                        "text": "them.  ",
+                        "type": "text"
+                    },
+                    {
+                        "text": "\n",
+                        "type": "br"
+                    },
+                    {
+                        "text": "\n",
+                        "type": "br"
+                    },
+                    {
+                        "innerText": "link-goto:\"Page65\",\"Page65\"",
+                        "name": "linkgoto",
+                        "text": "(link-goto:\"Page65\",\"Page65\")",
+                        "tokens": [
+                            {
+                                "text": "link-goto:",
+                                "type": "macroName"
+                            },
+                            {
+                                "innerText": "Page65",
+                                "text": "\"Page65\"",
+                                "type": "string"
+                            },
+                            {
+                                "text": ",",
+                                "type": "comma"
+                            },
+                            {
+                                "innerText": "Page65",
+                                "text": "\"Page65\"",
+                                "type": "string"
+                            }
+                        ],
+                        "type": "macro"
+                    }
+                ]
+            },
+            {
+                "Name": "Page65",
+                "Pid": "65",
+                "Tags": "",
+                "Tokens": [
+                    {
+                        "text": "After that inspection the cubs are free to run where they",
+                        "type": "text"
+                    },
+                    {
+                        "text": "\n",
+                        "type": "br"
+                    },
+                    {
+                        "text": "please, and until they have killed their first buck no excuse is",
+                        "type": "text"
+                    },
+                    {
+                        "text": "\n",
+                        "type": "br"
+                    },
+                    {
+                        "text": "accepted if a grown wolf of the Pack kills one of them.  The",
+                        "type": "text"
+                    },
+                    {
+                        "text": "\n",
+                        "type": "br"
+                    },
+                    {
+                        "text": "punishment is death where the murderer can be found; and if you",
+                        "type": "text"
+                    },
+                    {
+                        "text": "\n",
+                        "type": "br"
+                    },
+                    {
+                        "text": "think for a minute you will see that this must be so.",
+                        "type": "text"
+                    },
+                    {
+                        "text": "\n",
+                        "type": "br"
+                    },
+                    {
+                        "text": "\n",
+                        "type": "br"
+                    },
+                    {
+                        "innerText": "link-goto:\"Page66\",\"Page66\"",
+                        "name": "linkgoto",
+                        "text": "(link-goto:\"Page66\",\"Page66\")",
+                        "tokens": [
+                            {
+                                "text": "link-goto:",
+                                "type": "macroName"
+                            },
+                            {
+                                "innerText": "Page66",
+                                "text": "\"Page66\"",
+                                "type": "string"
+                            },
+                            {
+                                "text": ",",
+                                "type": "comma"
+                            },
+                            {
+                                "innerText": "Page66",
+                                "text": "\"Page66\"",
+                                "type": "string"
+                            }
+                        ],
+                        "type": "macro"
+                    }
+                ]
+            },
+            {
+                "Name": "Page66",
+                "Pid": "66",
+                "Tags": "",
+                "Tokens": [
+                    {
+                        "text": "Father Wolf waited till his cubs could run a little, and then",
+                        "type": "text"
+                    },
+                    {
+                        "text": "\n",
+                        "type": "br"
+                    },
+                    {
+                        "text": "on the night of the Pack Meeting took them and Mowgli and Mother",
+                        "type": "text"
+                    },
+                    {
+                        "text": "\n",
+                        "type": "br"
+                    },
+                    {
+                        "text": "Wolf to the Council Rock--a hilltop covered with stones and",
+                        "type": "text"
+                    },
+                    {
+                        "text": "\n",
+                        "type": "br"
+                    },
+                    {
+                        "text": "boulders where a hundred wolves could hide.",
+                        "type": "text"
+                    },
+                    {
+                        "text": "\n",
+                        "type": "br"
+                    },
+                    {
+                        "text": "\n",
+                        "type": "br"
+                    },
+                    {
+                        "innerText": "link-goto:\"Page67\",\"Page67\"",
+                        "name": "linkgoto",
+                        "text": "(link-goto:\"Page67\",\"Page67\")",
+                        "tokens": [
+                            {
+                                "text": "link-goto:",
+                                "type": "macroName"
+                            },
+                            {
+                                "innerText": "Page67",
+                                "text": "\"Page67\"",
+                                "type": "string"
+                            },
+                            {
+                                "text": ",",
+                                "type": "comma"
+                            },
+                            {
+                                "innerText": "Page67",
+                                "text": "\"Page67\"",
+                                "type": "string"
+                            }
+                        ],
+                        "type": "macro"
+                    }
+                ]
+            },
+            {
+                "Name": "Page67",
+                "Pid": "67",
+                "Tags": "",
+                "Tokens": [
+                    {
+                        "text": "Akela, the great gray",
+                        "type": "text"
+                    },
+                    {
+                        "text": "\n",
+                        "type": "br"
+                    },
+                    {
+                        "text": "Lone Wolf, who led all the Pack by strength and cunning, lay out",
+                        "type": "text"
+                    },
+                    {
+                        "text": "\n",
+                        "type": "br"
+                    },
+                    {
+                        "text": "at full length on his rock, and below him sat forty or more wolves",
+                        "type": "text"
+                    },
+                    {
+                        "text": "\n",
+                        "type": "br"
+                    },
+                    {
+                        "text": "of every size and color, from badger-colored veterans who could",
+                        "type": "text"
+                    },
+                    {
+                        "text": "\n",
+                        "type": "br"
+                    },
+                    {
+                        "text": "handle a buck alone to young black three-year-olds who thought",
+                        "type": "text"
+                    },
+                    {
+                        "text": "\n",
+                        "type": "br"
+                    },
+                    {
+                        "text": "they could.",
+                        "type": "text"
+                    },
+                    {
+                        "text": "\n",
+                        "type": "br"
+                    },
+                    {
+                        "text": "\n",
+                        "type": "br"
+                    },
+                    {
+                        "innerText": "link-goto:\"Page68\",\"Page68\"",
+                        "name": "linkgoto",
+                        "text": "(link-goto:\"Page68\",\"Page68\")",
+                        "tokens": [
+                            {
+                                "text": "link-goto:",
+                                "type": "macroName"
+                            },
+                            {
+                                "innerText": "Page68",
+                                "text": "\"Page68\"",
+                                "type": "string"
+                            },
+                            {
+                                "text": ",",
+                                "type": "comma"
+                            },
+                            {
+                                "innerText": "Page68",
+                                "text": "\"Page68\"",
+                                "type": "string"
+                            }
+                        ],
+                        "type": "macro"
+                    }
+                ]
+            },
+            {
+                "Name": "Page68",
+                "Pid": "68",
+                "Tags": "",
+                "Tokens": [
+                    {
+                        "text": "The Lone Wolf had led them for a year now.  He had",
+                        "type": "text"
+                    },
+                    {
+                        "text": "\n",
+                        "type": "br"
+                    },
+                    {
+                        "text": "fallen twice into a wolf trap in his youth, and once he had been",
+                        "type": "text"
+                    },
+                    {
+                        "text": "\n",
+                        "type": "br"
+                    },
+                    {
+                        "text": "beaten and left for dead; so he knew the manners and customs of",
+                        "type": "text"
+                    },
+                    {
+                        "text": "\n",
+                        "type": "br"
+                    },
+                    {
+                        "text": "men.  There was very little talking at the Rock.",
+                        "type": "text"
+                    },
+                    {
+                        "text": "\n",
+                        "type": "br"
+                    },
+                    {
+                        "text": "\n",
+                        "type": "br"
+                    },
+                    {
+                        "innerText": "link-goto:\"Page69\",\"Page69\"",
+                        "name": "linkgoto",
+                        "text": "(link-goto:\"Page69\",\"Page69\")",
+                        "tokens": [
+                            {
+                                "text": "link-goto:",
+                                "type": "macroName"
+                            },
+                            {
+                                "innerText": "Page69",
+                                "text": "\"Page69\"",
+                                "type": "string"
+                            },
+                            {
+                                "text": ",",
+                                "type": "comma"
+                            },
+                            {
+                                "innerText": "Page69",
+                                "text": "\"Page69\"",
+                                "type": "string"
+                            }
+                        ],
+                        "type": "macro"
+                    }
+                ]
+            },
+            {
+                "Name": "Page69",
+                "Pid": "69",
+                "Tags": "",
+                "Tokens": [
+                    {
+                        "text": "The cubs tumbled",
+                        "type": "text"
+                    },
+                    {
+                        "text": "\n",
+                        "type": "br"
+                    },
+                    {
+                        "text": "over each other in the center of the circle where their mothers",
+                        "type": "text"
+                    },
+                    {
+                        "text": "\n",
+                        "type": "br"
+                    },
+                    {
+                        "text": "and fathers sat, and now and again a senior wolf would go quietly",
+                        "type": "text"
+                    },
+                    {
+                        "text": "\n",
+                        "type": "br"
+                    },
+                    {
+                        "text": "up to a cub, look at him carefully, and return to his place on",
+                        "type": "text"
+                    },
+                    {
+                        "text": "\n",
+                        "type": "br"
+                    },
+                    {
+                        "text": "noiseless feet.",
+                        "type": "text"
+                    },
+                    {
+                        "text": "\n",
+                        "type": "br"
+                    },
+                    {
+                        "text": "\n",
+                        "type": "br"
+                    },
+                    {
+                        "innerText": "link-goto:\"Page70\",\"Page70\"",
+                        "name": "linkgoto",
+                        "text": "(link-goto:\"Page70\",\"Page70\")",
+                        "tokens": [
+                            {
+                                "text": "link-goto:",
+                                "type": "macroName"
+                            },
+                            {
+                                "innerText": "Page70",
+                                "text": "\"Page70\"",
+                                "type": "string"
+                            },
+                            {
+                                "text": ",",
+                                "type": "comma"
+                            },
+                            {
+                                "innerText": "Page70",
+                                "text": "\"Page70\"",
+                                "type": "string"
+                            }
+                        ],
+                        "type": "macro"
+                    }
+                ]
+            },
+            {
+                "Name": "Page70",
+                "Pid": "70",
+                "Tags": "",
+                "Tokens": [
+                    {
+                        "text": "Sometimes a mother would push her cub far out",
+                        "type": "text"
+                    },
+                    {
+                        "text": "\n",
+                        "type": "br"
+                    },
+                    {
+                        "text": "into the moonlight to be sure that he had not been overlooked.",
+                        "type": "text"
+                    },
+                    {
+                        "text": "\n",
+                        "type": "br"
+                    },
+                    {
+                        "text": "Akela from his rock would cry: \"Ye know the Law--ye know the",
+                        "type": "text"
+                    },
+                    {
+                        "text": "\n",
+                        "type": "br"
+                    },
+                    {
+                        "text": "Law.  Look well, O Wolves!\"",
+                        "type": "text"
+                    },
+                    {
+                        "text": "\n",
+                        "type": "br"
+                    },
+                    {
+                        "text": "\n",
+                        "type": "br"
+                    },
+                    {
+                        "innerText": "link-goto:\"Page71\",\"Page71\"",
+                        "name": "linkgoto",
+                        "text": "(link-goto:\"Page71\",\"Page71\")",
+                        "tokens": [
+                            {
+                                "text": "link-goto:",
+                                "type": "macroName"
+                            },
+                            {
+                                "innerText": "Page71",
+                                "text": "\"Page71\"",
+                                "type": "string"
+                            },
+                            {
+                                "text": ",",
+                                "type": "comma"
+                            },
+                            {
+                                "innerText": "Page71",
+                                "text": "\"Page71\"",
+                                "type": "string"
+                            }
+                        ],
+                        "type": "macro"
+                    }
+                ]
+            },
+            {
+                "Name": "Page71",
+                "Pid": "71",
+                "Tags": "",
+                "Tokens": [
+                    {
+                        "text": "And the anxious mothers would take up",
+                        "type": "text"
+                    },
+                    {
+                        "text": "\n",
+                        "type": "br"
+                    },
+                    {
+                        "text": "the call: \"Look--look well, O Wolves!\"",
+                        "type": "text"
+                    },
+                    {
+                        "text": "\n",
+                        "type": "br"
+                    },
+                    {
+                        "text": "\n",
+                        "type": "br"
+                    },
+                    {
+                        "innerText": "link-goto:\"Page72\",\"Page72\"",
+                        "name": "linkgoto",
+                        "text": "(link-goto:\"Page72\",\"Page72\")",
+                        "tokens": [
+                            {
+                                "text": "link-goto:",
+                                "type": "macroName"
+                            },
+                            {
+                                "innerText": "Page72",
+                                "text": "\"Page72\"",
+                                "type": "string"
+                            },
+                            {
+                                "text": ",",
+                                "type": "comma"
+                            },
+                            {
+                                "innerText": "Page72",
+                                "text": "\"Page72\"",
+                                "type": "string"
+                            }
+                        ],
+                        "type": "macro"
+                    }
+                ]
+            },
+            {
+                "Name": "Page72",
+                "Pid": "72",
+                "Tags": "",
+                "Tokens": [
+                    {
+                        "text": "At last--and Mother Wolf's neck bristles lifted as the time",
+                        "type": "text"
+                    },
+                    {
+                        "text": "\n",
+                        "type": "br"
+                    },
+                    {
+                        "text": "came--Father Wolf pushed \"Mowgli the Frog,\" as they called him,",
+                        "type": "text"
+                    },
+                    {
+                        "text": "\n",
+                        "type": "br"
+                    },
+                    {
+                        "text": "into the center, where he sat laughing and playing with some",
+                        "type": "text"
+                    },
+                    {
+                        "text": "\n",
+                        "type": "br"
+                    },
+                    {
+                        "text": "pebbles that glistened in the moonlight.",
+                        "type": "text"
+                    },
+                    {
+                        "text": "\n",
+                        "type": "br"
+                    },
+                    {
+                        "text": "\n",
+                        "type": "br"
+                    },
+                    {
+                        "innerText": "link-goto:\"Page73\",\"Page73\"",
+                        "name": "linkgoto",
+                        "text": "(link-goto:\"Page73\",\"Page73\")",
+                        "tokens": [
+                            {
+                                "text": "link-goto:",
+                                "type": "macroName"
+                            },
+                            {
+                                "innerText": "Page73",
+                                "text": "\"Page73\"",
+                                "type": "string"
+                            },
+                            {
+                                "text": ",",
+                                "type": "comma"
+                            },
+                            {
+                                "innerText": "Page73",
+                                "text": "\"Page73\"",
+                                "type": "string"
+                            }
+                        ],
+                        "type": "macro"
+                    }
+                ]
+            },
+            {
+                "Name": "Page73",
+                "Pid": "73",
+                "Tags": "",
+                "Tokens": [
+                    {
+                        "text": "Akela never raised his head from his paws, but went on with",
+                        "type": "text"
+                    },
+                    {
+                        "text": "\n",
+                        "type": "br"
+                    },
+                    {
+                        "text": "the monotonous cry: \"Look well!\"  A muffled roar came up from",
+                        "type": "text"
+                    },
+                    {
+                        "text": "\n",
+                        "type": "br"
+                    },
+                    {
+                        "text": "behind the rocks--the voice of Shere Khan crying: \"The cub is",
+                        "type": "text"
+                    },
+                    {
+                        "text": "\n",
+                        "type": "br"
+                    },
+                    {
+                        "text": "mine.  Give him to me.  What have the Free People to do with a",
+                        "type": "text"
+                    },
+                    {
+                        "text": "\n",
+                        "type": "br"
+                    },
+                    {
+                        "text": "man's cub?\"",
+                        "type": "text"
+                    },
+                    {
+                        "text": "\n",
+                        "type": "br"
+                    },
+                    {
+                        "text": "\n",
+                        "type": "br"
+                    },
+                    {
+                        "innerText": "link-goto:\"Page74\",\"Page74\"",
+                        "name": "linkgoto",
+                        "text": "(link-goto:\"Page74\",\"Page74\")",
+                        "tokens": [
+                            {
+                                "text": "link-goto:",
+                                "type": "macroName"
+                            },
+                            {
+                                "innerText": "Page74",
+                                "text": "\"Page74\"",
+                                "type": "string"
+                            },
+                            {
+                                "text": ",",
+                                "type": "comma"
+                            },
+                            {
+                                "innerText": "Page74",
+                                "text": "\"Page74\"",
+                                "type": "string"
+                            }
+                        ],
+                        "type": "macro"
+                    }
+                ]
+            },
+            {
+                "Name": "Page74",
+                "Pid": "74",
+                "Tags": "",
+                "Tokens": [
+                    {
+                        "text": "Akela never even twitched his ears.  All he said was:",
+                        "type": "text"
+                    },
+                    {
+                        "text": "\n",
+                        "type": "br"
+                    },
+                    {
+                        "text": "\"Look well, O Wolves!  What have the Free People to do with the",
+                        "type": "text"
+                    },
+                    {
+                        "text": "\n",
+                        "type": "br"
+                    },
+                    {
+                        "text": "orders of any save the Free People?  Look well!\"",
+                        "type": "text"
+                    },
+                    {
+                        "text": "\n",
+                        "type": "br"
+                    },
+                    {
+                        "text": "\n",
+                        "type": "br"
+                    },
+                    {
+                        "innerText": "link-goto:\"Page75\",\"Page75\"",
+                        "name": "linkgoto",
+                        "text": "(link-goto:\"Page75\",\"Page75\")",
+                        "tokens": [
+                            {
+                                "text": "link-goto:",
+                                "type": "macroName"
+                            },
+                            {
+                                "innerText": "Page75",
+                                "text": "\"Page75\"",
+                                "type": "string"
+                            },
+                            {
+                                "text": ",",
+                                "type": "comma"
+                            },
+                            {
+                                "innerText": "Page75",
+                                "text": "\"Page75\"",
+                                "type": "string"
+                            }
+                        ],
+                        "type": "macro"
+                    }
+                ]
+            },
+            {
+                "Name": "Page75",
+                "Pid": "75",
+                "Tags": "",
+                "Tokens": [
+                    {
+                        "text": "There was a chorus of deep growls, and a young wolf in his",
+                        "type": "text"
+                    },
+                    {
+                        "text": "\n",
+                        "type": "br"
+                    },
+                    {
+                        "text": "fourth year flung back Shere Khan's question to Akela: \"What have",
+                        "type": "text"
+                    },
+                    {
+                        "text": "\n",
+                        "type": "br"
+                    },
+                    {
+                        "text": "the Free People to do with a man's cub?\" ",
+                        "type": "text"
+                    },
+                    {
+                        "text": "\n",
+                        "type": "br"
+                    },
+                    {
+                        "text": "\n",
+                        "type": "br"
+                    },
+                    {
+                        "innerText": "link-goto:\"Page76\",\"Page76\"",
+                        "name": "linkgoto",
+                        "text": "(link-goto:\"Page76\",\"Page76\")",
+                        "tokens": [
+                            {
+                                "text": "link-goto:",
+                                "type": "macroName"
+                            },
+                            {
+                                "innerText": "Page76",
+                                "text": "\"Page76\"",
+                                "type": "string"
+                            },
+                            {
+                                "text": ",",
+                                "type": "comma"
+                            },
+                            {
+                                "innerText": "Page76",
+                                "text": "\"Page76\"",
+                                "type": "string"
+                            }
+                        ],
+                        "type": "macro"
+                    }
+                ]
+            },
+            {
+                "Name": "Page76",
+                "Pid": "76",
+                "Tags": "",
+                "Tokens": [
+                    {
+                        "text": "Now, the Law of the",
+                        "type": "text"
+                    },
+                    {
+                        "text": "\n",
+                        "type": "br"
+                    },
+                    {
+                        "text": "Jungle lays down that if there is any dispute as to the right of a",
+                        "type": "text"
+                    },
+                    {
+                        "text": "\n",
+                        "type": "br"
+                    },
+                    {
+                        "text": "cub to be accepted by the Pack, he must be spoken for by at least",
+                        "type": "text"
+                    },
+                    {
+                        "text": "\n",
+                        "type": "br"
+                    },
+                    {
+                        "text": "two members of the Pack who are not his father and mother.",
+                        "type": "text"
+                    },
+                    {
+                        "text": "\n",
+                        "type": "br"
+                    },
+                    {
+                        "text": "\n",
+                        "type": "br"
+                    },
+                    {
+                        "innerText": "link-goto:\"Page77\",\"Page77\"",
+                        "name": "linkgoto",
+                        "text": "(link-goto:\"Page77\",\"Page77\")",
+                        "tokens": [
+                            {
+                                "text": "link-goto:",
+                                "type": "macroName"
+                            },
+                            {
+                                "innerText": "Page77",
+                                "text": "\"Page77\"",
+                                "type": "string"
+                            },
+                            {
+                                "text": ",",
+                                "type": "comma"
+                            },
+                            {
+                                "innerText": "Page77",
+                                "text": "\"Page77\"",
+                                "type": "string"
+                            }
+                        ],
+                        "type": "macro"
+                    }
+                ]
+            },
+            {
+                "Name": "Page77",
+                "Pid": "77",
+                "Tags": "",
+                "Tokens": [
+                    {
+                        "text": "\"Who speaks for this cub?\" said Akela.  \"Among the Free People",
+                        "type": "text"
+                    },
+                    {
+                        "text": "\n",
+                        "type": "br"
+                    },
+                    {
+                        "text": "who speaks?\"  There was no answer and Mother Wolf got ready for",
+                        "type": "text"
+                    },
+                    {
+                        "text": "\n",
+                        "type": "br"
+                    },
+                    {
+                        "text": "what she knew would be her last fight, if things came to fighting.",
+                        "type": "text"
+                    },
+                    {
+                        "text": "\n",
+                        "type": "br"
+                    },
+                    {
+                        "text": "\n",
+                        "type": "br"
+                    },
+                    {
+                        "innerText": "link-goto:\"Page78\",\"Page78\"",
+                        "name": "linkgoto",
+                        "text": "(link-goto:\"Page78\",\"Page78\")",
+                        "tokens": [
+                            {
+                                "text": "link-goto:",
+                                "type": "macroName"
+                            },
+                            {
+                                "innerText": "Page78",
+                                "text": "\"Page78\"",
+                                "type": "string"
+                            },
+                            {
+                                "text": ",",
+                                "type": "comma"
+                            },
+                            {
+                                "innerText": "Page78",
+                                "text": "\"Page78\"",
+                                "type": "string"
+                            }
+                        ],
+                        "type": "macro"
+                    }
+                ]
+            },
+            {
+                "Name": "Page78",
+                "Pid": "78",
+                "Tags": "",
+                "Tokens": [
+                    {
+                        "text": "Then the only other creature who is allowed at the Pack",
+                        "type": "text"
+                    },
+                    {
+                        "text": "\n",
+                        "type": "br"
+                    },
+                    {
+                        "text": "Council--Baloo, the sleepy brown bear who teaches the wolf cubs",
+                        "type": "text"
+                    },
+                    {
+                        "text": "\n",
+                        "type": "br"
+                    },
+                    {
+                        "text": "the Law of the Jungle: old Baloo, who can come and go where he",
+                        "type": "text"
+                    },
+                    {
+                        "text": "\n",
+                        "type": "br"
+                    },
+                    {
+                        "text": "pleases because he eats only nuts and roots and honey--rose upon",
+                        "type": "text"
+                    },
+                    {
+                        "text": "\n",
+                        "type": "br"
+                    },
+                    {
+                        "text": "his hind quarters and grunted.",
+                        "type": "text"
+                    },
+                    {
+                        "text": "\n",
+                        "type": "br"
+                    },
+                    {
+                        "text": "\n",
+                        "type": "br"
+                    },
+                    {
+                        "innerText": "link-goto:\"Page79\",\"Page79\"",
+                        "name": "linkgoto",
+                        "text": "(link-goto:\"Page79\",\"Page79\")",
+                        "tokens": [
+                            {
+                                "text": "link-goto:",
+                                "type": "macroName"
+                            },
+                            {
+                                "innerText": "Page79",
+                                "text": "\"Page79\"",
+                                "type": "string"
+                            },
+                            {
+                                "text": ",",
+                                "type": "comma"
+                            },
+                            {
+                                "innerText": "Page79",
+                                "text": "\"Page79\"",
+                                "type": "string"
+                            }
+                        ],
+                        "type": "macro"
+                    }
+                ]
+            },
+            {
+                "Name": "Page79",
+                "Pid": "79",
+                "Tags": "",
+                "Tokens": [
+                    {
+                        "text": "\"The man's cub--the man's cub?\" he said.  \"I speak for the",
+                        "type": "text"
+                    },
+                    {
+                        "text": "\n",
+                        "type": "br"
+                    },
+                    {
+                        "text": "man's cub.  There is no harm in a man's cub.  I have no gift of",
+                        "type": "text"
+                    },
+                    {
+                        "text": "\n",
+                        "type": "br"
+                    },
+                    {
+                        "text": "words, but I speak the truth.  Let him run with the Pack, and be",
+                        "type": "text"
+                    },
+                    {
+                        "text": "\n",
+                        "type": "br"
+                    },
+                    {
+                        "text": "entered with the others.  I myself will teach him.\"",
+                        "type": "text"
+                    },
+                    {
+                        "text": "\n",
+                        "type": "br"
+                    },
+                    {
+                        "text": "\n",
+                        "type": "br"
+                    },
+                    {
+                        "innerText": "link-goto:\"Page80\",\"Page80\"",
+                        "name": "linkgoto",
+                        "text": "(link-goto:\"Page80\",\"Page80\")",
+                        "tokens": [
+                            {
+                                "text": "link-goto:",
+                                "type": "macroName"
+                            },
+                            {
+                                "innerText": "Page80",
+                                "text": "\"Page80\"",
+                                "type": "string"
+                            },
+                            {
+                                "text": ",",
+                                "type": "comma"
+                            },
+                            {
+                                "innerText": "Page80",
+                                "text": "\"Page80\"",
+                                "type": "string"
+                            }
+                        ],
+                        "type": "macro"
+                    }
+                ]
+            },
+            {
+                "Name": "Page80",
+                "Pid": "80",
+                "Tags": "",
+                "Tokens": [
+                    {
+                        "text": "\"We need yet another,\" said Akela.  \"Baloo has spoken, and he",
+                        "type": "text"
+                    },
+                    {
+                        "text": "\n",
+                        "type": "br"
+                    },
+                    {
+                        "text": "is our teacher for the young cubs.  Who speaks besides Baloo?\"",
+                        "type": "text"
+                    },
+                    {
+                        "text": "\n",
+                        "type": "br"
+                    },
+                    {
+                        "text": "\n",
+                        "type": "br"
+                    },
+                    {
+                        "innerText": "link-goto:\"Page81\",\"Page81\"",
+                        "name": "linkgoto",
+                        "text": "(link-goto:\"Page81\",\"Page81\")",
+                        "tokens": [
+                            {
+                                "text": "link-goto:",
+                                "type": "macroName"
+                            },
+                            {
+                                "innerText": "Page81",
+                                "text": "\"Page81\"",
+                                "type": "string"
+                            },
+                            {
+                                "text": ",",
+                                "type": "comma"
+                            },
+                            {
+                                "innerText": "Page81",
+                                "text": "\"Page81\"",
+                                "type": "string"
+                            }
+                        ],
+                        "type": "macro"
+                    }
+                ]
+            },
+            {
+                "Name": "Page81",
+                "Pid": "81",
+                "Tags": "",
+                "Tokens": [
+                    {
+                        "text": "A black shadow dropped down into the circle.  It was Bagheera",
+                        "type": "text"
+                    },
+                    {
+                        "text": "\n",
+                        "type": "br"
+                    },
+                    {
+                        "text": "the Black Panther, inky black all over, but with the panther",
+                        "type": "text"
+                    },
+                    {
+                        "text": "\n",
+                        "type": "br"
+                    },
+                    {
+                        "text": "markings showing up in certain lights like the pattern of watered",
+                        "type": "text"
+                    },
+                    {
+                        "text": "\n",
+                        "type": "br"
+                    },
+                    {
+                        "text": "silk.",
+                        "type": "text"
+                    },
+                    {
+                        "text": "\n",
+                        "type": "br"
+                    },
+                    {
+                        "text": "\n",
+                        "type": "br"
+                    },
+                    {
+                        "innerText": "link-goto:\"Page82\",\"Page82\"",
+                        "name": "linkgoto",
+                        "text": "(link-goto:\"Page82\",\"Page82\")",
+                        "tokens": [
+                            {
+                                "text": "link-goto:",
+                                "type": "macroName"
+                            },
+                            {
+                                "innerText": "Page82",
+                                "text": "\"Page82\"",
+                                "type": "string"
+                            },
+                            {
+                                "text": ",",
+                                "type": "comma"
+                            },
+                            {
+                                "innerText": "Page82",
+                                "text": "\"Page82\"",
+                                "type": "string"
+                            }
+                        ],
+                        "type": "macro"
+                    }
+                ]
+            },
+            {
+                "Name": "Page82",
+                "Pid": "82",
+                "Tags": "",
+                "Tokens": [
+                    {
+                        "text": "Everybody knew Bagheera, and nobody cared to cross his",
+                        "type": "text"
+                    },
+                    {
+                        "text": "\n",
+                        "type": "br"
+                    },
+                    {
+                        "text": "path; for he was as cunning as Tabaqui, as bold as the wild",
+                        "type": "text"
+                    },
+                    {
+                        "text": "\n",
+                        "type": "br"
+                    },
+                    {
+                        "text": "buffalo, and as reckless as the wounded elephant.",
+                        "type": "text"
+                    },
+                    {
+                        "text": "\n",
+                        "type": "br"
+                    },
+                    {
+                        "text": "\n",
+                        "type": "br"
+                    },
+                    {
+                        "innerText": "link-goto:\"Page83\",\"Page83\"",
+                        "name": "linkgoto",
+                        "text": "(link-goto:\"Page83\",\"Page83\")",
+                        "tokens": [
+                            {
+                                "text": "link-goto:",
+                                "type": "macroName"
+                            },
+                            {
+                                "innerText": "Page83",
+                                "text": "\"Page83\"",
+                                "type": "string"
+                            },
+                            {
+                                "text": ",",
+                                "type": "comma"
+                            },
+                            {
+                                "innerText": "Page83",
+                                "text": "\"Page83\"",
+                                "type": "string"
+                            }
+                        ],
+                        "type": "macro"
+                    }
+                ]
+            },
+            {
+                "Name": "Page83",
+                "Pid": "83",
+                "Tags": "",
+                "Tokens": [
+                    {
+                        "text": "But he had a",
+                        "type": "text"
+                    },
+                    {
+                        "text": "\n",
+                        "type": "br"
+                    },
+                    {
+                        "text": "voice as soft as wild honey dripping from a tree, and a skin",
+                        "type": "text"
+                    },
+                    {
+                        "text": "\n",
+                        "type": "br"
+                    },
+                    {
+                        "text": "softer than down.",
+                        "type": "text"
+                    },
+                    {
+                        "text": "\n",
+                        "type": "br"
+                    },
+                    {
+                        "text": "\n",
+                        "type": "br"
+                    },
+                    {
+                        "innerText": "link-goto:\"Page84\",\"Page84\"",
+                        "name": "linkgoto",
+                        "text": "(link-goto:\"Page84\",\"Page84\")",
+                        "tokens": [
+                            {
+                                "text": "link-goto:",
+                                "type": "macroName"
+                            },
+                            {
+                                "innerText": "Page84",
+                                "text": "\"Page84\"",
+                                "type": "string"
+                            },
+                            {
+                                "text": ",",
+                                "type": "comma"
+                            },
+                            {
+                                "innerText": "Page84",
+                                "text": "\"Page84\"",
+                                "type": "string"
+                            }
+                        ],
+                        "type": "macro"
+                    }
+                ]
+            },
+            {
+                "Name": "Page84",
+                "Pid": "84",
+                "Tags": "",
+                "Tokens": [
+                    {
+                        "text": "\"O Akela, and ye the Free People,\" he purred, \"I have no right",
+                        "type": "text"
+                    },
+                    {
+                        "text": "\n",
+                        "type": "br"
+                    },
+                    {
+                        "text": "in your assembly, but the Law of the Jungle says that if there is",
+                        "type": "text"
+                    },
+                    {
+                        "text": "\n",
+                        "type": "br"
+                    },
+                    {
+                        "text": "a doubt which is not a killing matter in regard to a new cub, the",
+                        "type": "text"
+                    },
+                    {
+                        "text": "\n",
+                        "type": "br"
+                    },
+                    {
+                        "text": "life of that cub may be bought at a price.  And the Law does not",
+                        "type": "text"
+                    },
+                    {
+                        "text": "\n",
+                        "type": "br"
+                    },
+                    {
+                        "text": "say who may or may not pay that price.  Am I right?\"",
+                        "type": "text"
+                    },
+                    {
+                        "text": "\n",
+                        "type": "br"
+                    },
+                    {
+                        "text": "\n",
+                        "type": "br"
+                    },
+                    {
+                        "innerText": "link-goto:\"Page85\",\"Page85\"",
+                        "name": "linkgoto",
+                        "text": "(link-goto:\"Page85\",\"Page85\")",
+                        "tokens": [
+                            {
+                                "text": "link-goto:",
+                                "type": "macroName"
+                            },
+                            {
+                                "innerText": "Page85",
+                                "text": "\"Page85\"",
+                                "type": "string"
+                            },
+                            {
+                                "text": ",",
+                                "type": "comma"
+                            },
+                            {
+                                "innerText": "Page85",
+                                "text": "\"Page85\"",
+                                "type": "string"
+                            }
+                        ],
+                        "type": "macro"
+                    }
+                ]
+            },
+            {
+                "Name": "Page85",
+                "Pid": "85",
+                "Tags": "",
+                "Tokens": [
+                    {
+                        "text": "\"Good!  Good!\" said the young wolves, who are always hungry.",
+                        "type": "text"
+                    },
+                    {
+                        "text": "\n",
+                        "type": "br"
+                    },
+                    {
+                        "text": "\"Listen to Bagheera.  The cub can be bought for a price.  It is",
+                        "type": "text"
+                    },
+                    {
+                        "text": "\n",
+                        "type": "br"
+                    },
+                    {
+                        "text": "the Law.\"",
+                        "type": "text"
+                    },
+                    {
+                        "text": "\n",
+                        "type": "br"
+                    },
+                    {
+                        "text": "\n",
+                        "type": "br"
+                    },
+                    {
+                        "innerText": "link-goto:\"Page86\",\"Page86\"",
+                        "name": "linkgoto",
+                        "text": "(link-goto:\"Page86\",\"Page86\")",
+                        "tokens": [
+                            {
+                                "text": "link-goto:",
+                                "type": "macroName"
+                            },
+                            {
+                                "innerText": "Page86",
+                                "text": "\"Page86\"",
+                                "type": "string"
+                            },
+                            {
+                                "text": ",",
+                                "type": "comma"
+                            },
+                            {
+                                "innerText": "Page86",
+                                "text": "\"Page86\"",
+                                "type": "string"
+                            }
+                        ],
+                        "type": "macro"
+                    }
+                ]
+            },
+            {
+                "Name": "Page86",
+                "Pid": "86",
+                "Tags": "",
+                "Tokens": [
+                    {
+                        "text": "\"Knowing that I have no right to speak here, I ask your",
+                        "type": "text"
+                    },
+                    {
+                        "text": "\n",
+                        "type": "br"
+                    },
+                    {
+                        "text": "leave.\"",
+                        "type": "text"
+                    },
+                    {
+                        "text": "\n",
+                        "type": "br"
+                    },
+                    {
+                        "text": "\n",
+                        "type": "br"
+                    },
+                    {
+                        "innerText": "link-goto:\"Page87\",\"Page87\"",
+                        "name": "linkgoto",
+                        "text": "(link-goto:\"Page87\",\"Page87\")",
+                        "tokens": [
+                            {
+                                "text": "link-goto:",
+                                "type": "macroName"
+                            },
+                            {
+                                "innerText": "Page87",
+                                "text": "\"Page87\"",
+                                "type": "string"
+                            },
+                            {
+                                "text": ",",
+                                "type": "comma"
+                            },
+                            {
+                                "innerText": "Page87",
+                                "text": "\"Page87\"",
+                                "type": "string"
+                            }
+                        ],
+                        "type": "macro"
+                    }
+                ]
+            },
+            {
+                "Name": "Page87",
+                "Pid": "87",
+                "Tags": "",
+                "Tokens": [
+                    {
+                        "text": "\"Speak then,\" cried twenty voices.",
+                        "type": "text"
+                    },
+                    {
+                        "text": "\n",
+                        "type": "br"
+                    },
+                    {
+                        "text": "\n",
+                        "type": "br"
+                    },
+                    {
+                        "innerText": "link-goto:\"Page88\",\"Page88\"",
+                        "name": "linkgoto",
+                        "text": "(link-goto:\"Page88\",\"Page88\")",
+                        "tokens": [
+                            {
+                                "text": "link-goto:",
+                                "type": "macroName"
+                            },
+                            {
+                                "innerText": "Page88",
+                                "text": "\"Page88\"",
+                                "type": "string"
+                            },
+                            {
+                                "text": ",",
+                                "type": "comma"
+                            },
+                            {
+                                "innerText": "Page88",
+                                "text": "\"Page88\"",
+                                "type": "string"
+                            }
+                        ],
+                        "type": "macro"
+                    }
+                ]
+            },
+            {
+                "Name": "Page88",
+                "Pid": "88",
+                "Tags": "",
+                "Tokens": [
+                    {
+                        "text": "\"To kill a naked cub is shame.  Besides, he may make better",
+                        "type": "text"
+                    },
+                    {
+                        "text": "\n",
+                        "type": "br"
+                    },
+                    {
+                        "text": "sport for you when he is grown.  Baloo has spoken in his behalf.",
+                        "type": "text"
+                    },
+                    {
+                        "text": "\n",
+                        "type": "br"
+                    },
+                    {
+                        "text": "Now to Baloo's word I will add one bull, and a fat one, newly",
+                        "type": "text"
+                    },
+                    {
+                        "text": "\n",
+                        "type": "br"
+                    },
+                    {
+                        "text": "killed, not half a mile from here, if ye will accept the man's cub",
+                        "type": "text"
+                    },
+                    {
+                        "text": "\n",
+                        "type": "br"
+                    },
+                    {
+                        "text": "according to the Law.  Is it difficult?\"",
+                        "type": "text"
+                    },
+                    {
+                        "text": "\n",
+                        "type": "br"
+                    },
+                    {
+                        "text": "\n",
+                        "type": "br"
+                    },
+                    {
+                        "innerText": "link-goto:\"Page89\",\"Page89\"",
+                        "name": "linkgoto",
+                        "text": "(link-goto:\"Page89\",\"Page89\")",
+                        "tokens": [
+                            {
+                                "text": "link-goto:",
+                                "type": "macroName"
+                            },
+                            {
+                                "innerText": "Page89",
+                                "text": "\"Page89\"",
+                                "type": "string"
+                            },
+                            {
+                                "text": ",",
+                                "type": "comma"
+                            },
+                            {
+                                "innerText": "Page89",
+                                "text": "\"Page89\"",
+                                "type": "string"
+                            }
+                        ],
+                        "type": "macro"
+                    }
+                ]
+            },
+            {
+                "Name": "Page89",
+                "Pid": "89",
+                "Tags": "",
+                "Tokens": [
+                    {
+                        "text": "There was a clamor of scores of voices, saying: \"What matter?",
+                        "type": "text"
+                    },
+                    {
+                        "text": "\n",
+                        "type": "br"
+                    },
+                    {
+                        "text": "He will die in the winter rains.  He will scorch in the sun.  What",
+                        "type": "text"
+                    },
+                    {
+                        "text": "\n",
+                        "type": "br"
+                    },
+                    {
+                        "text": "harm can a naked frog do us?",
+                        "type": "text"
+                    },
+                    {
+                        "text": "\n",
+                        "type": "br"
+                    },
+                    {
+                        "text": "\n",
+                        "type": "br"
+                    },
+                    {
+                        "innerText": "link-goto:\"Page90\",\"Page90\"",
+                        "name": "linkgoto",
+                        "text": "(link-goto:\"Page90\",\"Page90\")",
+                        "tokens": [
+                            {
+                                "text": "link-goto:",
+                                "type": "macroName"
+                            },
+                            {
+                                "innerText": "Page90",
+                                "text": "\"Page90\"",
+                                "type": "string"
+                            },
+                            {
+                                "text": ",",
+                                "type": "comma"
+                            },
+                            {
+                                "innerText": "Page90",
+                                "text": "\"Page90\"",
+                                "type": "string"
+                            }
+                        ],
+                        "type": "macro"
+                    }
+                ]
+            },
+            {
+                "Name": "Page90",
+                "Pid": "90",
+                "Tags": "",
+                "Tokens": [
+                    {
+                        "text": "Let him run with the Pack.  Where is",
+                        "type": "text"
+                    },
+                    {
+                        "text": "\n",
+                        "type": "br"
+                    },
+                    {
+                        "text": "the bull, Bagheera?  Let him be accepted.\"  And then came Akela's",
+                        "type": "text"
+                    },
+                    {
+                        "text": "\n",
+                        "type": "br"
+                    },
+                    {
+                        "text": "deep bay, crying: \"Look well--look well, O Wolves!\"",
+                        "type": "text"
+                    },
+                    {
+                        "text": "\n",
+                        "type": "br"
+                    },
+                    {
+                        "text": "\n",
+                        "type": "br"
+                    },
+                    {
+                        "innerText": "link-goto:\"Page91\",\"Page91\"",
+                        "name": "linkgoto",
+                        "text": "(link-goto:\"Page91\",\"Page91\")",
+                        "tokens": [
+                            {
+                                "text": "link-goto:",
+                                "type": "macroName"
+                            },
+                            {
+                                "innerText": "Page91",
+                                "text": "\"Page91\"",
+                                "type": "string"
+                            },
+                            {
+                                "text": ",",
+                                "type": "comma"
+                            },
+                            {
+                                "innerText": "Page91",
+                                "text": "\"Page91\"",
+                                "type": "string"
+                            }
+                        ],
+                        "type": "macro"
+                    }
+                ]
+            },
+            {
+                "Name": "Page91",
+                "Pid": "91",
+                "Tags": "",
+                "Tokens": [
+                    {
+                        "text": "Mowgli was still deeply interested in the pebbles, and he did",
+                        "type": "text"
+                    },
+                    {
+                        "text": "\n",
+                        "type": "br"
+                    },
+                    {
+                        "text": "not notice when the wolves came and looked at him one by one.  At",
+                        "type": "text"
+                    },
+                    {
+                        "text": "\n",
+                        "type": "br"
+                    },
+                    {
+                        "text": "last they all went down the hill for the dead bull, and only",
+                        "type": "text"
+                    },
+                    {
+                        "text": "\n",
+                        "type": "br"
+                    },
+                    {
+                        "text": "Akela, Bagheera, Baloo, and Mowgli's own wolves were left.",
+                        "type": "text"
+                    },
+                    {
+                        "text": "\n",
+                        "type": "br"
+                    },
+                    {
+                        "text": "\n",
+                        "type": "br"
+                    },
+                    {
+                        "innerText": "link-goto:\"Page92\",\"Page92\"",
+                        "name": "linkgoto",
+                        "text": "(link-goto:\"Page92\",\"Page92\")",
+                        "tokens": [
+                            {
+                                "text": "link-goto:",
+                                "type": "macroName"
+                            },
+                            {
+                                "innerText": "Page92",
+                                "text": "\"Page92\"",
+                                "type": "string"
+                            },
+                            {
+                                "text": ",",
+                                "type": "comma"
+                            },
+                            {
+                                "innerText": "Page92",
+                                "text": "\"Page92\"",
+                                "type": "string"
+                            }
+                        ],
+                        "type": "macro"
+                    }
+                ]
+            },
+            {
+                "Name": "Page92",
+                "Pid": "92",
+                "Tags": "",
+                "Tokens": [
+                    {
+                        "text": "Shere Khan roared still in the night, for he was very angry that Mowgli",
+                        "type": "text"
+                    },
+                    {
+                        "text": "\n",
+                        "type": "br"
+                    },
+                    {
+                        "text": "had not been handed over to him.",
+                        "type": "text"
+                    },
+                    {
+                        "text": "\n",
+                        "type": "br"
+                    },
+                    {
+                        "text": "\n",
+                        "type": "br"
+                    },
+                    {
+                        "innerText": "link-goto:\"Page93\",\"Page93\"",
+                        "name": "linkgoto",
+                        "text": "(link-goto:\"Page93\",\"Page93\")",
+                        "tokens": [
+                            {
+                                "text": "link-goto:",
+                                "type": "macroName"
+                            },
+                            {
+                                "innerText": "Page93",
+                                "text": "\"Page93\"",
+                                "type": "string"
+                            },
+                            {
+                                "text": ",",
+                                "type": "comma"
+                            },
+                            {
+                                "innerText": "Page93",
+                                "text": "\"Page93\"",
+                                "type": "string"
+                            }
+                        ],
+                        "type": "macro"
+                    }
+                ]
+            },
+            {
+                "Name": "Page93",
+                "Pid": "93",
+                "Tags": "",
+                "Tokens": [
+                    {
+                        "text": "\"Ay, roar well,\" said Bagheera, under his whiskers, \"for the",
+                        "type": "text"
+                    },
+                    {
+                        "text": "\n",
+                        "type": "br"
+                    },
+                    {
+                        "text": "time will come when this naked thing will make thee roar to",
+                        "type": "text"
+                    },
+                    {
+                        "text": "\n",
+                        "type": "br"
+                    },
+                    {
+                        "text": "another tune, or I know nothing of man.\"",
+                        "type": "text"
+                    },
+                    {
+                        "text": "\n",
+                        "type": "br"
+                    },
+                    {
+                        "text": "\n",
+                        "type": "br"
+                    },
+                    {
+                        "innerText": "link-goto:\"Page94\",\"Page94\"",
+                        "name": "linkgoto",
+                        "text": "(link-goto:\"Page94\",\"Page94\")",
+                        "tokens": [
+                            {
+                                "text": "link-goto:",
+                                "type": "macroName"
+                            },
+                            {
+                                "innerText": "Page94",
+                                "text": "\"Page94\"",
+                                "type": "string"
+                            },
+                            {
+                                "text": ",",
+                                "type": "comma"
+                            },
+                            {
+                                "innerText": "Page94",
+                                "text": "\"Page94\"",
+                                "type": "string"
+                            }
+                        ],
+                        "type": "macro"
+                    }
+                ]
+            },
+            {
+                "Name": "Page94",
+                "Pid": "94",
+                "Tags": "",
+                "Tokens": [
+                    {
+                        "text": "\"It was well done,\" said Akela.  \"Men and their cubs are very",
+                        "type": "text"
+                    },
+                    {
+                        "text": "\n",
+                        "type": "br"
+                    },
+                    {
+                        "text": "wise.  He may be a help in time.\"",
+                        "type": "text"
+                    },
+                    {
+                        "text": "\n",
+                        "type": "br"
+                    },
+                    {
+                        "text": "\n",
+                        "type": "br"
+                    },
+                    {
+                        "innerText": "link-goto:\"Page95\",\"Page95\"",
+                        "name": "linkgoto",
+                        "text": "(link-goto:\"Page95\",\"Page95\")",
+                        "tokens": [
+                            {
+                                "text": "link-goto:",
+                                "type": "macroName"
+                            },
+                            {
+                                "innerText": "Page95",
+                                "text": "\"Page95\"",
+                                "type": "string"
+                            },
+                            {
+                                "text": ",",
+                                "type": "comma"
+                            },
+                            {
+                                "innerText": "Page95",
+                                "text": "\"Page95\"",
+                                "type": "string"
+                            }
+                        ],
+                        "type": "macro"
+                    }
+                ]
+            },
+            {
+                "Name": "Page95",
+                "Pid": "95",
+                "Tags": "",
+                "Tokens": [
+                    {
+                        "text": "\"Truly, a help in time of need; for none can hope to lead the",
+                        "type": "text"
+                    },
+                    {
+                        "text": "\n",
+                        "type": "br"
+                    },
+                    {
+                        "text": "Pack forever,\" said Bagheera.",
+                        "type": "text"
+                    },
+                    {
+                        "text": "\n",
+                        "type": "br"
+                    },
+                    {
+                        "text": "\n",
+                        "type": "br"
+                    },
+                    {
+                        "innerText": "link-goto:\"Page96\",\"Page96\"",
+                        "name": "linkgoto",
+                        "text": "(link-goto:\"Page96\",\"Page96\")",
+                        "tokens": [
+                            {
+                                "text": "link-goto:",
+                                "type": "macroName"
+                            },
+                            {
+                                "innerText": "Page96",
+                                "text": "\"Page96\"",
+                                "type": "string"
+                            },
+                            {
+                                "text": ",",
+                                "type": "comma"
+                            },
+                            {
+                                "innerText": "Page96",
+                                "text": "\"Page96\"",
+                                "type": "string"
+                            }
+                        ],
+                        "type": "macro"
+                    }
+                ]
+            },
+            {
+                "Name": "Page96",
+                "Pid": "96",
+                "Tags": "",
+                "Tokens": [
+                    {
+                        "text": "Akela said nothing.  He was thinking of the time that comes to",
+                        "type": "text"
+                    },
+                    {
+                        "text": "\n",
+                        "type": "br"
+                    },
+                    {
+                        "text": "every leader of every pack when his strength goes from him and he",
+                        "type": "text"
+                    },
+                    {
+                        "text": "\n",
+                        "type": "br"
+                    },
+                    {
+                        "text": "gets feebler and feebler, till at last he is killed by the wolves",
+                        "type": "text"
+                    },
+                    {
+                        "text": "\n",
+                        "type": "br"
+                    },
+                    {
+                        "text": "and a new leader comes up--to be killed in his turn.",
+                        "type": "text"
+                    },
+                    {
+                        "text": "\n",
+                        "type": "br"
+                    },
+                    {
+                        "text": "\n",
+                        "type": "br"
+                    },
+                    {
+                        "innerText": "link-goto:\"Page97\",\"Page97\"",
+                        "name": "linkgoto",
+                        "text": "(link-goto:\"Page97\",\"Page97\")",
+                        "tokens": [
+                            {
+                                "text": "link-goto:",
+                                "type": "macroName"
+                            },
+                            {
+                                "innerText": "Page97",
+                                "text": "\"Page97\"",
+                                "type": "string"
+                            },
+                            {
+                                "text": ",",
+                                "type": "comma"
+                            },
+                            {
+                                "innerText": "Page97",
+                                "text": "\"Page97\"",
+                                "type": "string"
+                            }
+                        ],
+                        "type": "macro"
+                    }
+                ]
+            },
+            {
+                "Name": "Page97",
+                "Pid": "97",
+                "Tags": "",
+                "Tokens": [
+                    {
+                        "text": "\"Take him away,\" he said to Father Wolf, \"and train him as",
+                        "type": "text"
+                    },
+                    {
+                        "text": "\n",
+                        "type": "br"
+                    },
+                    {
+                        "text": "befits one of the Free People.\"",
+                        "type": "text"
+                    },
+                    {
+                        "text": "\n",
+                        "type": "br"
+                    },
+                    {
+                        "text": "\n",
+                        "type": "br"
+                    },
+                    {
+                        "innerText": "link-goto:\"Page98\",\"Page98\"",
+                        "name": "linkgoto",
+                        "text": "(link-goto:\"Page98\",\"Page98\")",
+                        "tokens": [
+                            {
+                                "text": "link-goto:",
+                                "type": "macroName"
+                            },
+                            {
+                                "innerText": "Page98",
+                                "text": "\"Page98\"",
+                                "type": "string"
+                            },
+                            {
+                                "text": ",",
+                                "type": "comma"
+                            },
+                            {
+                                "innerText": "Page98",
+                                "text": "\"Page98\"",
+                                "type": "string"
+                            }
+                        ],
+                        "type": "macro"
+                    }
+                ]
+            },
+            {
+                "Name": "Page98",
+                "Pid": "98",
+                "Tags": "",
+                "Tokens": [
+                    {
+                        "text": "And that is how Mowgli was entered into the Seeonee Wolf Pack",
+                        "type": "text"
+                    },
+                    {
+                        "text": "\n",
+                        "type": "br"
+                    },
+                    {
+                        "text": "for the price of a bull and on Baloo's good word.",
+                        "type": "text"
+                    },
+                    {
+                        "text": "\n",
+                        "type": "br"
+                    },
+                    {
+                        "text": "\n",
+                        "type": "br"
+                    },
+                    {
+                        "innerText": "link-goto:\"Page99\",\"Page99\"",
+                        "name": "linkgoto",
+                        "text": "(link-goto:\"Page99\",\"Page99\")",
+                        "tokens": [
+                            {
+                                "text": "link-goto:",
+                                "type": "macroName"
+                            },
+                            {
+                                "innerText": "Page99",
+                                "text": "\"Page99\"",
+                                "type": "string"
+                            },
+                            {
+                                "text": ",",
+                                "type": "comma"
+                            },
+                            {
+                                "innerText": "Page99",
+                                "text": "\"Page99\"",
+                                "type": "string"
+                            }
+                        ],
+                        "type": "macro"
+                    }
+                ]
+            },
+            {
+                "Name": "Page99",
+                "Pid": "99",
+                "Tags": "",
+                "Tokens": [
+                    {
+                        "text": "ACHIEVEMENT",
+                        "type": "text"
+                    },
+                    {
+                        "text": "\n",
+                        "type": "br"
+                    },
+                    {
+                        "text": "\n",
+                        "type": "br"
+                    },
+                    {
+                        "text": "100 PAGES",
+                        "type": "text"
+                    },
+                    {
+                        "text": "\n",
+                        "type": "br"
                     }
                 ]
             }
